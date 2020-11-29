@@ -1,0 +1,234 @@
+{
+  "initalState": {
+    "peliculas": [
+       {
+        "id": 2,
+        "slug": "tvshow-2",
+        "title": "Fast & Furious",
+        "type": "Acción",
+        "language": "Español",
+        "year": 2018,
+        "contentRating": "+17",
+        "duration": 164,
+        "cover": "./src/assets/static/images_carousel/fastandfurious.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+      },
+      {
+        "id": 3,
+        "slug": "tvshow-3",
+        "title": "Transformers: El último caballero",
+        "type": "Ficción",
+        "language": "English",
+        "year": 2017,
+        "contentRating": "+16",
+        "duration": 147,
+        "cover": "./src/assets/static/images_carousel/transformers.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+      },
+      {
+        "id": 4,
+        "slug": "tvshow-4",
+        "title": "It",
+        "type": "Terror",
+        "language": "English",
+        "year": 2017,
+        "contentRating": "+16",
+        "duration": 163,
+        "cover": "./src/assets/static/images_carousel/it.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+      },
+      {
+        "id": 5,
+        "slug": "tvshow-3",
+        "title": "Escape Room",
+        "type": "Terror",
+        "language": "English",
+        "year": 2019,
+        "contentRating": "+18",
+        "duration": 137,
+        "cover": "./src/assets/static/images_carousel/escape.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+      },
+      {
+         "id": 6,
+         "slug": "tvshow-3",
+         "title": "Joker",
+         "type": "Drama",
+         "language": "English",
+         "year": 2019,
+         "contentRating": "+16",
+         "duration": 137,
+         "cover": "./src/assets/static/images_carousel/joker.jpg",
+         "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+         "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+      },
+      {
+        "id": 7,
+        "slug": "tvshow-3",
+        "title": "Venom",
+        "type": "Acción",
+        "language": "English",
+        "year": 2018,
+        "contentRating": "+16",
+        "duration": 137,
+        "cover": "./src/assets/static/images_carousel/venom.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+      },
+      {
+        "id": 8,
+        "slug": "tvshow-3",
+        "title": "Bob Esponja",
+        "type": "Animación",
+        "language": "English",
+        "year": 2020,
+        "contentRating": "+3",
+        "duration": 137,
+        "cover": "./src/assets/static/images_carousel/bobesponja.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+      }
+
+    ],
+    "series": [
+      {
+        "id": 9,
+        "slug": "tvshow-2",
+        "title": "The 100",
+        "type": "Acción",
+        "language": "Español",
+        "year": 2016,
+        "contentRating": "+17",
+        "duration": 164,
+        "cover": "./src/assets/static/images_carousel/the100.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+      },
+      {
+        "id": 10,
+        "slug": "tvshow-3",
+        "title": "Peaky Blinders",
+        "type": "Acción",
+        "language": "English",
+        "year": 2013,
+        "contentRating": "+16",
+        "duration": 147,
+        "cover": "./src/assets/static/images_carousel/peaky.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+      },
+      {
+        "id": 11,
+        "slug": "tvshow-4",
+        "title": "La casa de papel",
+        "type": "Terror",
+        "language": "English",
+        "year": 2017,
+        "contentRating": "+16",
+        "duration": 163,
+        "cover": "./src/assets/static/images_carousel/lacasadepapel.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+      },
+      {
+        "id": 12,
+        "slug": "tvshow-3",
+        "title": "Vikingos",
+        "type": "Terror",
+        "language": "English",
+        "year": 2013,
+        "contentRating": "+18",
+        "duration": 137,
+        "cover": "./src/assets/static/images_carousel/vikingos.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+      },
+      {
+        "id": 13,
+        "slug": "tvshow-3",
+        "title": "Mr. Robot",
+        "type": "Drama",
+        "language": "English",
+        "year": 2015,
+        "contentRating": "+16",
+        "duration": 137,
+        "cover": "./src/assets/static/images_carousel/robot.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+      }
+      
+    ],
+    "deporte": [
+      {
+        "id": 14,
+        "slug": "tvshow-2",
+        "title": "R.Madrid vs F.C.Barcelona",
+        "type": "deporte",
+        "language": "Español",
+        "year": 2006,
+        "contentRating": "+17",
+        "duration": 164,
+        "cover": "./src/assets/static/images_carousel/3_0.png",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+      },
+      {
+        "id": 15,
+        "slug": "tvshow-3",
+        "title": "Liverpool vs Barça",
+        "type": "Ficción",
+        "language": "English",
+        "year": 2002,
+        "contentRating": "+16",
+        "duration": 147,
+        "cover": "./src/assets/static/images_carousel/liv.png",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+      },
+      {
+        "id": 16,
+        "slug": "tvshow-4",
+        "title": "R.Madrid vs F.C.Barcelona",
+        "type": "Terror",
+        "language": "English",
+        "year": 2009,
+        "contentRating": "+16",
+        "duration": 163,
+        "cover": "./src/assets/static/images_carousel/2_6.png",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+      },
+      {
+        "id": 17,
+        "slug": "tvshow-3",
+        "title": "Chelsea vs F.C.Barcelona",
+        "type": "Terror",
+        "language": "English",
+        "year": 2019,
+        "contentRating": "+18",
+        "duration": 137,
+        "cover": "./src/assets/static/images_carousel/1_1.png",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+      },
+      {
+        "id": 17,
+        "slug": "tvshow-3",
+        "title": "F.C.Barcelona vs Sevilla",
+        "type": "Drama",
+        "language": "English",
+        "year": 2019,
+        "contentRating": "+16",
+        "duration": 137,
+        "cover": "./src/assets/static/images_carousel/5_4.png",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://mdstrm.com/video/58333e214ad055d208427db5.mp4"
+      }
+      
+    ]
+  }
+}
